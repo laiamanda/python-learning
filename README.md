@@ -1,3 +1,3 @@
 # python-learning
 
-This host all of my learning of Python
+This hosts all of my learning on Python
